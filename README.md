@@ -4,7 +4,7 @@ Fashwer Studio builds the things that make brands impossible to ignore.
 
 Videos that hold attention. Brand identities that stick. Interfaces and websites that feel effortless. Ads that actually perform. And when something breaks, we find the root cause and fix it.
 
-video · design · ui/ux · web · ads · tech consulting
+video · design · ui/ux · web · tech consulting
 
 One studio, idea to launch, no hand-offs and no excuses. Tell us the problem. We'll ship the answer.
 
